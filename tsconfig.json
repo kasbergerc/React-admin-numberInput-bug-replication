@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs",
+      "moduleResolution": "node16",
+      "pretty": true,
+      "resolveJsonModule": true,
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "sourceMap": true,
+      "declaration": true,
+      "declarationMap": true,
+      "alwaysStrict": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "isolatedModules": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noUncheckedIndexedAccess": true,
+      "noImplicitReturns": true,
+      "lib": ["esnext", "dom"],
+      "importHelpers": true,
+      "jsx": "react-jsx",
+    
+    }
+  }
+  
